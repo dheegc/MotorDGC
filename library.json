@@ -1,0 +1,15 @@
+{
+  "name": "MotorDGC",
+  "keywords": "Motor, MotorDGC, I2C",
+  "description": "A library for DC Motor Driver Circuit",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/dheegc/MotorDGC.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
